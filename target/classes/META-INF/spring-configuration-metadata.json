@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.canyon.velocity.config.DataSource",
+      "sourceType": "com.canyon.velocity.config.DataSource"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
