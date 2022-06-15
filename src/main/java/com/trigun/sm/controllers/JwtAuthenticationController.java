@@ -21,6 +21,7 @@ import com.trigun.sm.models.User;
 import com.trigun.sm.repo.IUserRepo;
 import com.trigun.sm.service.JwtUserDetailsService;
 
+
 @RestController
 @CrossOrigin
 public class JwtAuthenticationController {
