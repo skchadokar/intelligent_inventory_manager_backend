@@ -9,11 +9,11 @@
 		<version>2.1.9.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.canyon</groupId>
+	<groupId>com.trigun</groupId>
 	<artifactId>velocity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>velocity</name>
-	<description>Velocity for Spring Boot</description>
+	<description>SM app in Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
