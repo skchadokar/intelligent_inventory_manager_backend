@@ -639,3 +639,7 @@ com.mysql.cj.exceptions.ConnectionIsClosedException: No operations allowed after
 2022-06-15 18:22:51,233 INFO com.trigun.sm.controllers.JwtAuthenticationController [http-nio-8181-exec-2] JwtAuthenticationController :: inside generateAuthenticationToken : user name :: admin
 2022-06-15 18:22:51,234 INFO com.trigun.sm.service.JwtUserDetailsService [http-nio-8181-exec-2] JwtUserDetailsService :: inside loadUserByUsername : username :: admin
 2022-06-15 18:22:54,545 ERROR com.trigun.sm.controllers.JwtAuthenticationController [http-nio-8181-exec-2] JwtAuthenticationController :: inside generateAuthenticationToken : user found!
+2022-06-15 18:32:03,908 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-8] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-06-15 18:32:03,915 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-8] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-15 18:32:03,934 INFO com.zaxxer.hikari.HikariDataSource [Thread-8] iti-pool-name - Shutdown initiated...
+2022-06-15 18:32:03,941 INFO com.zaxxer.hikari.HikariDataSource [Thread-8] iti-pool-name - Shutdown completed.
